@@ -1,20 +1,23 @@
 {
   "development": {
-    "username": "root",
-    "password": "*0penx2",
-    "database": "flashcards_db",
-    "host": "127.0.0.1",
+    "username": "btsb2srlhr7sgea7",
+    "password": "h8i15x6kxoci4q49",
+    "database": "p8v4u022xiwayq6c",
+    "host": "rnr56s6e2uk326pj.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
-    "password": null,
-    "database": "database_test",
-    "host": "127.0.0.1",
+    "username": "btsb2srlhr7sgea7",
+    "password": "h8i15x6kxoci4q49",
+    "database": "p8v4u022xiwayq6c",
+    "host": "rnr56s6e2uk326pj.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "production": {
-    "use_env_variable": "JAWSDB_URL",
+    "username": "btsb2srlhr7sgea7",
+    "password": "h8i15x6kxoci4q49",
+    "database": "p8v4u022xiwayq6c",
+    "host": "rnr56s6e2uk326pj.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   }
 }
